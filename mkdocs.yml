@@ -3,7 +3,7 @@ repo_url: https://github.com/gruyaume/dot-5g
 copyright: Guillaume Belanger
 
 nav:
-    - "Home": "docs/index.md"
+    - "Home": "index.md"
     - "tutorial":
         - "Getting Started": 'tutorials/getting_started.md'
         - "Installing Dot 5G": 'tutorials/installing_dot_5g.md'
